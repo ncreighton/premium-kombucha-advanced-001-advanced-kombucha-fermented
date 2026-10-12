@@ -1,0 +1,2 @@
+# premium-kombucha-advanced-001-advanced-kombucha-fermented
+Stop guessing why your kombucha batches taste different every time—turn your brewing into a reproducible science with a dedicated lab notebook that tracks every variable.  This Notion template eliminates the frustration of inconsistent fermentation by giving you a structured, digital laboratory for your kombucha and fermented tea experiments. Unlik
